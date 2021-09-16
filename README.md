@@ -1,4 +1,4 @@
-# instaUserbot
+# insta user 🙄
 İnstagram için bir userbot
 using [insta.js](https://github.com/Androz2091/insta.js) and [nodejs](https://nodejs.org)
 bu userbot beta sürümüdür. Belki bir hata var 
