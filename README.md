@@ -1,9 +1,9 @@
-# instaus
-Instaus is a userbot for instagram
+# instaUserbot
+İnstagram için bir userbot
 using [insta.js](https://github.com/Androz2091/insta.js) and [nodejs](https://nodejs.org)
-this userbot is beta. maybe have a bug
+bu userbot beta sürümüdür. Belki bir hata var 
 
-# Run Userbot
+# Userbot'ı Çalıştır
 
 # Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mehmetbaba55/Instagramuserbot)
