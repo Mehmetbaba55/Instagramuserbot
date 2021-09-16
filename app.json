@@ -5,7 +5,7 @@
     "telegram",
     "userbot"
   ],
-  "repository": "https://github.com/nekozu/instaus",
+  "repository": "https://github.com/Mehmetbaba55/Instagramuserbot",
   "env": {
     "username": {
       "description": "Username instagram",
